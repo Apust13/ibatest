@@ -1,0 +1,25 @@
+#header .inner{
+	   background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), #731F14), url("images/bg02.png");
+}
+
+.button.alt {
+			background-color: #731F14;
+		}
+.button.alt:hover {
+				background-color: #94291B;
+			}
+
+
+#main-wrapper > div.wrapper.style2 > div > section > div > div:nth-child(2) 
+{
+	color: #731F14;
+}
+#main-wrapper > div.wrapper.style2 > div > section > div > div:nth-child(2) > section > header > h2{
+	color: #731F14;
+}
+#main-wrapper > div.wrapper.style2 > div > section > div > div:nth-child(2) > section > header > p{
+	color: #731F14;
+}
+
+
+
